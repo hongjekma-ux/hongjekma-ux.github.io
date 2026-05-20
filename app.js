@@ -99,12 +99,23 @@ function initSideNav() {
 
   if (!sections.length) return;
 
+  let activeId = null;
+
   function setActive(id) {
+    if (activeId === id) return;
+    activeId = id;
+
     navLinks.forEach((link) => {
-      link.classList.toggle(
-        "is-active",
-        link.getAttribute("data-nav-target") === id
-      );
+      const isActive = link.getAttribute("data-nav-target") === id;
+      link.classList.toggle("is-active", isActive);
+
+      if (isActive) {
+        link.scrollIntoView({
+          behavior: "smooth",
+          inline: "center",
+          block: "nearest",
+        });
+      }
     });
   }
 
