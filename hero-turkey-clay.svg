@@ -1,0 +1,40 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" rx="72" fill="#FFF6E8"/>
+  <rect x="44" y="44" width="812" height="1112" rx="56" fill="url(#sky)"/>
+  <circle cx="641" cy="199" r="78" fill="#FFD876"/>
+  <ellipse cx="448" cy="1028" rx="304" ry="70" fill="#D8A67E" fill-opacity="0.35"/>
+  <path d="M125 872C216 815 307 786 399 786C534 786 650 842 772 950V1010H125V872Z" fill="#C9875B"/>
+  <path d="M228 745C228 660.5 272.324 592 327 592C381.676 592 426 660.5 426 745H228Z" fill="#B96F4E"/>
+  <path d="M325 457L380 590H270L325 457Z" fill="#EBC5A1"/>
+  <path d="M417 1013C417 916.902 470.278 839 536 839C601.722 839 655 916.902 655 1013H417Z" fill="#D59A67"/>
+  <path d="M535 655L598 838H472L535 655Z" fill="#F4D4AF"/>
+  <path d="M480 614C480 520.112 554.112 444 648 444H652C745.888 444 820 520.112 820 614H480Z" fill="#FFF6EB"/>
+  <path d="M650 375L703 444H597L650 375Z" fill="#F8C97F"/>
+  <rect x="460" y="614" width="380" height="172" rx="34" fill="#FFF9EF"/>
+  <rect x="602" y="646" width="95" height="140" rx="30" fill="#F1D9BB"/>
+  <rect x="497" y="662" width="52" height="96" rx="20" fill="#D7F0F8"/>
+  <rect x="745" y="662" width="52" height="96" rx="20" fill="#D7F0F8"/>
+  <rect x="397" y="433" width="34" height="353" rx="17" fill="#FDF0DD"/>
+  <path d="M414 372L447 433H381L414 372Z" fill="#F8C97F"/>
+  <rect x="814" y="404" width="34" height="382" rx="17" fill="#FDF0DD"/>
+  <path d="M831 343L864 404H798L831 343Z" fill="#F8C97F"/>
+  <ellipse cx="241" cy="276" rx="70" ry="88" fill="#FFB46F"/>
+  <path d="M241 210C267.51 210 289 231.49 289 258V311H193V258C193 231.49 214.49 210 241 210Z" fill="#FFE0B7"/>
+  <path d="M241 183C209.52 183 184 208.52 184 240H298C298 208.52 272.48 183 241 183Z" fill="#FF8A5C"/>
+  <path d="M241 311V402" stroke="#8C6252" stroke-width="9" stroke-linecap="round"/>
+  <ellipse cx="371" cy="224" rx="54" ry="68" fill="#A0DBFF"/>
+  <path d="M371 171C399.166 171 422 193.834 422 222V266H320V222C320 193.834 342.834 171 371 171Z" fill="#DFF5FF"/>
+  <path d="M371 152C341.176 152 317 176.176 317 206H425C425 176.176 400.824 152 371 152Z" fill="#62BFEF"/>
+  <path d="M371 266V338" stroke="#7C6CA5" stroke-width="8" stroke-linecap="round"/>
+  <path d="M131 355C170.333 339.667 206 338 238 350" stroke="#FFF3D9" stroke-width="10" stroke-linecap="round"/>
+  <path d="M501 253C534.333 230.333 569.333 223.333 606 232" stroke="#FFF4DB" stroke-width="10" stroke-linecap="round"/>
+  <path d="M694 861C744.667 879 786 908 818 948" stroke="#FFF4E7" stroke-width="12" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="sky" x1="450" y1="44" x2="450" y2="1156" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0C8"/>
+      <stop offset="0.36" stop-color="#F3DEFF"/>
+      <stop offset="0.7" stop-color="#D7F4FF"/>
+      <stop offset="1" stop-color="#FFD9BD"/>
+    </linearGradient>
+  </defs>
+</svg>
